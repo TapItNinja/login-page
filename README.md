@@ -9,23 +9,6 @@
   [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://github.com/your-repo)
 </div>
 
-## 🎥 Project Showcase
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">Login Form</td>
-      <td align="center">Input Fields</td>
-      <td align="center">Responsive Design</td>
-    </tr>
-    <tr>
-      <td><img src="./components/login-form.png" width="200"/></td>
-      <td><img src="./components/input-fields.png" width="200"/></td>
-      <td><img src="./components/responsive-design.png" width="200"/></td>
-    </tr>
-  </table>
-</div>
-
 ## ✨ Features
 
 <table>
