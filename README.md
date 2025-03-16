@@ -1,12 +1,12 @@
 # Login Page 🚪
 
 <div align="center">
-  <img src="./components/login-screenshot.png" alt="Login Page Screenshot" width="400"/>
+  <img src="https://github.com/TapItNinja/login-page/blob/main/components/full.png" alt="Full Page Screenshot" width="400"/>
   
   <h3>A Clean and Modern Login Page Design</h3>
   
   [![Platform](https://img.shields.io/badge/Platform-HTML5-CSS3-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://github.com/your-repo)
+  [![Status](https://img.shields.io/badge/Status-Active-4CAF50.svg)](https://github.com/TapItNinja/login-page)
 </div>
 
 ## 🎥 Project Showcase
@@ -14,14 +14,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">Login Form</td>
-      <td align="center">Input Fields</td>
-      <td align="center">Responsive Design</td>
+      <td align="center">Full Page</td>
+      <td align="center">Login Component</td>
     </tr>
     <tr>
-      <td><img src="./components/login-form.png" width="200"/></td>
-      <td><img src="./components/input-fields.png" width="200"/></td>
-      <td><img src="./components/responsive-design.png" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/login-page/blob/main/components/full.png" width="200"/></td>
+      <td><img src="https://github.com/TapItNinja/login-page/blob/main/components/login.png" width="200"/></td>
     </tr>
   </table>
 </div>
@@ -84,7 +82,7 @@
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-repo/login-page.git
+   git clone https://github.com/TapItNinja/login-page.git
    ```
 
 2. Navigate to the project directory
@@ -129,8 +127,7 @@
 
 ## 👥 Team
 
-- **Project Lead**: [Shubham Shaswat](https://github.com/tapitninja)
-
+- **Project Lead**: [Shubham Shaswat](https://github.com/TapItNinja)
 
 ## 📄 License
 
@@ -145,5 +142,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ for developers and designers</p>
+  <p>Made with ❤️ by Shubham Shaswat</p>
 </div>
