@@ -1,4 +1,4 @@
-# Login Page 🚪
+# Login Page
 
 <div align="center">
   <img src="https://github.com/TapItNinja/login-page/blob/main/components/full.png" alt="Full Page Screenshot" width="400"/>
